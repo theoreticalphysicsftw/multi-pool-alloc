@@ -21,8 +21,8 @@
 // SOFTWARE.
 
 
-#ifndef BITMAP_TREE_HPP_INCLUDED
-#define BITMAP_TREE_HPP_INCLUDED
+#ifndef MULTI_POOL_ALLOC_HPP_INCLUDED
+#define MULTI_POOL_ALLOC_HPP_INCLUDED
 
 #include <cstdint>
 #include <cstdlib>
